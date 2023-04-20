@@ -1,12 +1,14 @@
 # Tio-EDC USB
-Valueable files and data to carry on your EDC USB or SD Card
+Essential files and data to carry on your Every Day Carry housed on a USB drive or SD Card.
 
 No encryption is used to make the Tio-EDC as plug-and-play as possible: In an emergency or under duress trying to enter a decryption passphrase or even getting it to work will be an issue.
 
 The naming convention of the files and folders are formulated in such a way that it makes them as easy to read as possible in the shortest amount of time.
 
-/ or Root
----------
+
+
+/ or Root Folder
+----------------
 In the root of the repo by default is an audio file called Mosquito-Tone-5min.mp3. The file is located in the root in order for it to hopefully autoplay when inserted into a device. Some devices such as mobile speakers or smart TV's will look into the root
 of a device and start playing the audio automatically. Swap out with the other files from the ADIO folder as you see fit.
 
@@ -15,7 +17,7 @@ The Mosquito tone itself emits a high pitched tone that only someone around or u
 
 3D
 --
-Houses all your 3D printer files for anything that could be use to print. A printer file for a master key for certain locks is included here by default.
+Houses all your 3D printer files for anything that could be useful to print. A printer file for a master key for certain locks is included here by default.
 
 
 ADIO
@@ -39,7 +41,7 @@ Folder containing First Aid manuals.
 
 IMG
 ---
-The images folder which contains a quick reference for the phoentic alphanbet.
+The images folder which contains a quick reference for the phoentic alphabet.
 
 
 PDF
