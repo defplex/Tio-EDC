@@ -12,19 +12,20 @@ of a device and start playing the audio automatically. Swap out with the other f
 
 The Mosquito tone itself emits a high pitched tone that only someone around or under the age of 21yo can hear. The intent is to either distract/disperse or call attention. 
 
+
 3D
 --
 Houses all your 3D printer files for anything that could be use to print. A printer file for a master key for certain locks is included here by default.
 
 
-ADIO
-----
-All files are MP3 for compatability reasons. White-Noise.mp3 file which is included since it overrides other sounds, can help assist with sleep and cause audio clarity issues for listening devices or humans. Also included is an alarm sound and S-O-S in morse code.
-
-
 APK
 ---
 Android apps that could be useful
+
+
+ADIO
+----
+All files are MP3 for compatability reasons. White-Noise.mp3 file which is included since it overrides other sounds, can help assist with sleep and cause audio clarity issues for listening devices or humans. Also included is an alarm sound and S-O-S in morse code.
 
 
 FRSTAD
@@ -40,6 +41,7 @@ Padded folder to store mobile carrier airtime vouchers and giftcards to trade as
 PDF
 ---
 Various manuals for survival, tactics and recipes
+
 
 RF
 --
