@@ -12,6 +12,10 @@ of a device and start playing the audio automatically.
 
 The Mosquito tone itself emits a high pitched tone that only someone around or under the age of 21yo can hear. The intent is to either distract/disperse or call attention. This file can be swapped out with the White-Noise.mp3 file which is included since it overrides other sounds, can help assist with sleep and cause audio clarity issues for listening devices or humans. Also included is an alarm sound and S-O-S in morse code.
 
+3D
+--
+Houses all your 3D printer files for anything that could be use to print. A printer file for a master key for certain locks is included here by default.
+
 
 APK
 ---
