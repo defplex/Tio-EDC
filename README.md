@@ -25,7 +25,7 @@ All files are MP3 for compatability reasons. White-Noise.mp3 file which is inclu
 
 APK
 ---
-Android apps that could be useful
+Android apps that could be useful.
 
 
 CRNCY
@@ -35,14 +35,18 @@ Padded folder to store mobile carrier airtime vouchers and giftcards to trade as
 
 FRSTAD
 ------
-Folder containing First Aid manuals
+Folder containing First Aid manuals.
+
+IMG
+---
+The images folder which contains a quick reference for the phoentic alphanbet.
 
 
 PDF
 ---
-Various manuals for survival, tactics and recipes
+Various manuals for survival, tactics and recipes.
 
 
 RF
 --
-Inside is a PDF with all the registered Radio Frequencies for the USA (replace with your local as you see fit) for use with your UV5R or other handheld
+Inside is a PDF with all the registered Radio Frequencies for the USA (replace with your local as you see fit) for use with your UV5R or other handheld.
