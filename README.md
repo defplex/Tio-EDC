@@ -6,6 +6,9 @@ No encryption is used to make the Tio-EDC as plug-and-play as possible: In an em
 The naming convention of the files and folders are formulated in such a way that it makes them as easy to read as possible in the shortest amount of time.
 
 
+There are no original ideas left, only appropriations from giants. This REPO was inspired by hermanos Calderon.
+This REPO is not intended for some kook clad in camo and rhetoric inside a bunker, but rather for the good people who we need to survive.
+
 
 / or Root Folder
 ----------------
