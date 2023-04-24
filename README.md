@@ -42,16 +42,17 @@ FRSTAD
 ------
 Folder containing First Aid manuals.
 
+
 IMG
 ---
-The images folder which contains a quick reference for the phoentic alphabet.
+The images folder which contains a quick references.
 
 
 PDF
 ---
-Various manuals for survival, tactics and recipes.
+Various manuals for survival and recipes.
 
 
 RF
 --
-Inside is a PDF with all the registered Radio Frequencies for the USA (replace with your local as you see fit) for use with your UV5R or other handheld.
+Inside is a PDF with all the registered Radio Frequencies for the USA (replace with your locale as you see fit) for use with your UV5R or other handheld.
