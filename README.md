@@ -1,5 +1,8 @@
-# Tio-EDC USB
+# Tio-EDC USB v.1
 Essential files and data to carry on your Every Day Carry housed on a USB drive or SD Card.
+
+To download this REPO click on the green CODE button above right and then click on "Download ZIP" or if you know how just use a terminal:
+git clone https://github.com/defplex/Tio-EDC
 
 No encryption is used to make the Tio-EDC as plug-and-play as possible: In an emergency or under duress trying to enter a decryption passphrase or even getting it to work will be an issue.
 
