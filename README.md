@@ -38,7 +38,7 @@ Android apps that could be useful such as an offline APK to work your OBD connec
 
 CRNCY
 -----
-Padded folder to store mobile carrier airtime vouchers and giftcards to trade as currency. When resources are low, ATM's non-funtional or other, fill this folder with digital vouchers or QR codes that you can trade with someone.
+Padded folder to store mobile carrier airtime vouchers and giftcards to trade as currency. When resources are low, ATM's non-functional or other, fill this folder with digital vouchers or QR codes that you can trade with someone.
 
 
 FRSTAD
