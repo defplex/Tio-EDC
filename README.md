@@ -30,7 +30,7 @@ All files are MP3 for compatability reasons. White-Noise.mp3 file which is inclu
 
 APK
 ---
-Android apps that could be useful.
+Android apps that could be useful such as an offline APK to work your OBD connector (sold seperately) and QR code quick reference to download the Organic Maps app which is independant Apple/Android and stores maps offline.
 
 
 CRNCY
